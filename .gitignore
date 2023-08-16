@@ -1,0 +1,4 @@
+venv
+dbdata
+gcsdata
+.env

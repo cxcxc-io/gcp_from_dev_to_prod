@@ -1,0 +1,6 @@
+google-cloud-storage==2.10.0
+flask==2.3.2
+flask-sqlalchemy==3.0.5
+pymysql==1.1.0
+python-dotenv==1.0.0
+gunicorn
